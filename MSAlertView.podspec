@@ -22,11 +22,11 @@ MSAlertView 是一个基于插件化架构设计的 iOS AlertView 组件库。
 - 键盘自动适配
                        DESC
 
-  s.homepage         = 'https://github.com/sanmu/MSAlertView'
+  s.homepage         = 'https://github.com/SONG808/msalert'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = 'sanmu'
-  s.source           = { :git => 'https://github.com/sanmu/MSAlertView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/SONG808/msalert.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
