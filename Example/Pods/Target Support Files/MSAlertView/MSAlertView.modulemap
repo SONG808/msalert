@@ -1,0 +1,6 @@
+framework module MSAlertView {
+  umbrella header "MSAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MSAlertView (0.1.0)
+
+DEPENDENCIES:
+  - MSAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  MSAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSAlertView: 30ad1bddfb7c7174b6297088e9d9eab933de063f
+
+PODFILE CHECKSUM: 8acc37c2a2da83d49eff6c57a2851f169eab01b4
+
+COCOAPODS: 1.15.2

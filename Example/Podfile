@@ -1,0 +1,7 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'MSAlertView_Example' do
+  pod 'MSAlertView', :path => '../'
+end
